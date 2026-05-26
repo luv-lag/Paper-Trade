@@ -1,3 +1,5 @@
 yfinance==1.3.0
 pandas==3.0.0
 matplotlib==3.10.8
+alpaca-py==0.43.4
+python-dotenv==1.1.0
